@@ -7,4 +7,4 @@ Data Science, AS
 ### Work Experience
 
 ### Projects
-[logo]: Screenshot 2025-07-05 125122.png
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
