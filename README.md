@@ -8,7 +8,7 @@ Data Science, AS
 ### Work Experience
 
 ### Projects
-####This is my first Project
+This is my first Project
 
 //Project 1 report view shown by reference: 
 ![alt text][project1Image]
